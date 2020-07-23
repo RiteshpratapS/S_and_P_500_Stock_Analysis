@@ -1,0 +1,1 @@
+Run this script to get volatility index of perticular stock.
